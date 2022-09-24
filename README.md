@@ -24,10 +24,7 @@ Based on the most common searches, I have segregated the search string to the th
 
 ![pgadmin](https://user-images.githubusercontent.com/72039550/192081464-22354ec5-e009-4fbe-9657-01b936b0d2f9.png)
 
-
-
-
-
+<br><br>
 NOTE:  By default, a new verion of Selenium get's installed (4+ onwards).  The tags **find_element_by_xpath** and **find_elements_by_xpath** have been deprecated in these version and the code may not run if you have newer version of selenium. To avoid such issues, kindly use the above given verison (any version less than 4.0)
 
 
