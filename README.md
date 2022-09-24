@@ -17,7 +17,7 @@ Based on the most common searches, I have segregated the search string to the th
 <br>
 * Install PgAdmin latest version and all other dependencies that come along with it. You can refer to this link
     https://www.pgadmin.org/download/pgadmin-4-windows/
-    
+    <br>
 * I have 6.12 verison installed.
 <br>
 
@@ -25,16 +25,18 @@ Based on the most common searches, I have segregated the search string to the th
 
 <br><br>
 NOTE:  By default, a new verion of Selenium get's installed (4+ onwards).  The tags **find_element_by_xpath** and **find_elements_by_xpath** have been deprecated in these version and the code may not run if you have newer version of selenium. To avoid such issues, kindly use the above given verison (any version less than 4.0)
-
+<br>
 
 ## Getting Started
 
 * 1) A database by the name "amazon_products" is already created (manually) in PgAdmin
+* <br>
 ![db_name](https://user-images.githubusercontent.com/72039550/192081173-5af21c9a-634b-4228-b65c-dcd308f559f2.jpg)
 
 <hr>
 
 * 2) a table by the name "Amazon_Products" is created through the script itself - using SqlAlchemy package.
+* <br>
 ![U2](https://user-images.githubusercontent.com/72039550/149824922-b33593d5-cede-42b3-96fe-b971c7c208a1.png)
 
 <hr>
