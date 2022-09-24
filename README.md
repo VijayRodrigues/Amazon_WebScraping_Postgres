@@ -26,6 +26,8 @@ Based on the most common searches, I have segregated the search string to the th
 
 
 
+
+
 NOTE:  By default, a new verion of Selenium get's installed (4+ onwards).  The tags **find_element_by_xpath** and **find_elements_by_xpath** have been deprecated in these version and the code may not run if you have newer version of selenium. To avoid such issues, kindly use the above given verison (any version less than 4.0)
 
 
