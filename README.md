@@ -11,10 +11,9 @@ Based on the most common searches, I have segregated the search string to the th
 * You would require Selenium Webdriver suitable for your browser.
 * Kindly use Google Chrome - as this code is built on this driver.
 * Please install the following python packages using pip
+<br>
 
-
-
-![pack](https://user-images.githubusercontent.com/72039550/192081245-d3b0c7e6-329c-454f-a141-5b23e0dafa92.png)
+  ![pack](https://user-images.githubusercontent.com/72039550/192081245-d3b0c7e6-329c-454f-a141-5b23e0dafa92.png)
 <br>
 * Install PgAdmin latest version and all other dependencies that come along with it. You can refer to this link
     https://www.pgadmin.org/download/pgadmin-4-windows/
