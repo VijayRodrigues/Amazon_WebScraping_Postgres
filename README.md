@@ -13,7 +13,20 @@ Based on the most common searches, I have segregated the search string to the th
 * Please install the following python packages using pip
 
 
+
 ![pack](https://user-images.githubusercontent.com/72039550/192081245-d3b0c7e6-329c-454f-a141-5b23e0dafa92.png)
+
+* Install PgAdmin latest version and all other dependencies that come along with it. You can refer to this link
+    https://www.pgadmin.org/download/pgadmin-4-windows/
+    
+* I have 6.12 verison installed.
+
+
+![pgadmin](https://user-images.githubusercontent.com/72039550/192081464-22354ec5-e009-4fbe-9657-01b936b0d2f9.png)
+
+
+
+NOTE:  By default, a new verion of Selenium get's installed (4+ onwards).  The tags **find_element_by_xpath** and **find_elements_by_xpath** have been deprecated in these version and the code may not run if you have newer version of selenium. To avoid such issues, kindly use the above given verison (any version less than 4.0)
 
 
 ## Getting Started
@@ -23,8 +36,7 @@ Based on the most common searches, I have segregated the search string to the th
 
 <hr>
 
-
-* 2) This is how you can create tables
+* 2) a table by the name "Amazon_Products" is created through the script itself - using SqlAlchemy package.
 ![U2](https://user-images.githubusercontent.com/72039550/149824922-b33593d5-cede-42b3-96fe-b971c7c208a1.png)
 
 <hr>
