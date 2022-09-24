@@ -45,10 +45,7 @@ NOTE:  By default, a new verion of Selenium get's installed (4+ onwards).  The t
 
 ## Executing program
 
-* The following query displays all the records that were appended to the table "Amazon_Laptops"
-<br>
-![tabquery](https://user-images.githubusercontent.com/72039550/192105067-e884df42-39cf-478c-a13a-11a08ba03ede.png)
-
+* The following query  **SELECT * FROM public."Amazon_Laptops"** displays all the records that were appended to the table "Amazon_Laptops"
 <br><br>
 ![querytab](https://user-images.githubusercontent.com/72039550/192105060-ded88e7f-b170-4c0f-9bfd-1df9b946ffc7.png)
 
