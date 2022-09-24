@@ -48,7 +48,6 @@ NOTE:  By default, a new verion of Selenium get's installed (4+ onwards).  The t
 * The following query displays all the records that were appended to the table "Amazon_Laptops"
 <br>
 ![tabquery](https://user-images.githubusercontent.com/72039550/192105032-48fb801d-c997-491a-b61e-44c27cb83f67.png)
-
 <br><br>
 ![querytab](https://user-images.githubusercontent.com/72039550/192104987-18804e73-2fc1-451f-8915-bc04694e72ad.png)
 
